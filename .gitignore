@@ -18,11 +18,7 @@ var/
 wheels/
 *.egg-info/
 .installed.cfg
-*.egg
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb
+*.eg
 
 # Virtual Environments
 venv/

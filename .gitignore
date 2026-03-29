@@ -52,3 +52,6 @@ task2_similarity/generate_report.py
 *.tar.gz
 *.zip
 *.tar
+
+ArtGAN/
+opendata-main/

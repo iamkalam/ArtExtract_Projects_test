@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Task 1: Image Cache and Report Generator
+task1_classification/wikiart_cache/
+task1_classification/generate_report.py
+
+# Task 2: Image Cache and Report Generator
+task2_similarity/image_cache/
+task2_similarity/generate_report.py
+
+# Large Dataset Files
+*.tar.gz
+*.zip
+*.tar
